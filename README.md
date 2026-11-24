@@ -2,7 +2,7 @@
 
 ![make.fun](https://make.fun/badge/u-zeroxfive-funniest-autocorrect-fail-ddf82154.svg)
 ![rank](https://make.fun/badge/u-zeroxfive-funniest-autocorrect-fail-ddf82154/Joppy26/u-zeroxfive-funniest-autocorrect-fail-ddf82154/rank.svg)
-![reward](https://make.fun/badge/u-zeroxfive-funniest-autocorrect-fail-ddf82154/reward.svg)
+![reward](https://make.fun/badge/u-zeroxfive-funniest-autocorrect-fail-ddf82154/Joppy26/u-zeroxfive-funniest-autocorrect-fail-ddf82154/reward.svg)
 
 Entry for the [make.fun bounty](https://make.fun/bounty/u-zeroxfive-funniest-autocorrect-fail-ddf82154): one line under 200 characters that reads as a hilarious autocorrect fail.
 
